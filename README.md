@@ -1,0 +1,2 @@
+# nd-quotes
+Quotes widget
